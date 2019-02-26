@@ -1,0 +1,20 @@
+{
+  "name": "koajs-sample-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pupupulp/koajs-sample-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pupupulp/koajs-sample-api/issues"
+  },
+  "homepage": "https://github.com/pupupulp/koajs-sample-api#readme"
+}
